@@ -1,4 +1,2 @@
-# mysql-vagrant
-
-mysql-vagrant is a quick way to run mysql locally for development without an ssh tunnel
-
+# mysql-vagrant 
+It is used to install mysql on vagrant machine
